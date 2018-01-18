@@ -1,6 +1,11 @@
 # Learning REACT?
 Use this code to render a Google Map to your project.
 
+### How to start
+1. Open your command prompt
+2. Change into the world Map REACT directory (Main directory)
+3. Type the command "npm start"
+
 ### Prerequisites
 You must have a firm understanding to the following:
 
